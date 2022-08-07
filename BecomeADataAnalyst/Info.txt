@@ -1,0 +1,4 @@
+UDEMY - BECOME A DATA ANALYST
+*
+pip install --upgrade pip		> powershell
+to start jupyter server > 'jupyter notebook' in powershell
