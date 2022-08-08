@@ -2,3 +2,27 @@ UDEMY - BECOME A DATA ANALYST
 *
 pip install --upgrade pip		> powershell
 to start jupyter server > 'jupyter notebook' in powershell
+www.kaggle.com > Practice Data sets
+
+PANDAS:
+* Pandas is pretty much Sql in python but with methods and different naming.
+loc = Where
+sort_values = Sort
+iloc = First/Limit/Slice
+isnull = Checks for null cells
+any(axis=1) = Whether row contains missing values, but in 1 column which we can use to pass in as an argument
+drop = Remove columns from DataFrame
+unique = 
+
+DATA CLEANING:
+- Missing Values
+- Misspellings
+- Duplicates
+- Inconsistent Formats
+- Structure of Overall Data
+- Extracting Information from complex values
+- Unspecified units conversions
+- Interpretation of Magnitudes
+
+TIPS:
+* Always keep track on data cleaning changes
