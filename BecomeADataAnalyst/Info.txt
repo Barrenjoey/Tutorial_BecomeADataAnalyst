@@ -6,6 +6,7 @@ www.kaggle.com > Practice Data sets
 
 PANDAS:
 * Pandas is pretty much Sql in python but with methods and different naming.
+read_csv = Ingests csv file 
 loc = Where
 sort_values = Sort
 iloc = First/Limit/Slice
